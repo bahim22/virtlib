@@ -45,7 +45,7 @@
     "@types/react": "^18.0.14",
     "@types/react-dom": "^18.0.5",
     "cross-env": "^7.0.3",
-    "cypress": "^10.1.0",
+    "cypress": "^13.14.0",
     "cypress-hmr-restarter": "^2.0.3",
     "eslint-plugin-cypress": "^2.12.1",
     "husky": "4.3.8",
@@ -60,7 +60,7 @@
     "react-test-renderer": "^18.2.0",
     "resolve": "^1.22.1",
     "serve": "^13.0.2",
-    "start-server-and-test": "^1.14.0",
+    "start-server-and-test": "^2.0.5",
     "whatwg-fetch": "^3.6.2"
   },
   "scripts": {
